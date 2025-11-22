@@ -2,7 +2,7 @@
 
 This repository demonstrates a complete CI/CD pipeline implementation using GitHub, Google Cloud Build, Artifact Registry, and Google Kubernetes Engine (GKE). The project features a simple Go application with automatic build and deployment workflows for both development and production environments.
 
-## Project Overview
+## Project Overview 
 
 This project implements a CI/CD pipeline for Cymbal Superstore that:
 - Uses GitHub for source code management
