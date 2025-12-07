@@ -11,7 +11,7 @@ This project implements a CI/CD pipeline for Cymbal Superstore that:
 - Deploys to separate development and production environments on GKE
 - Supports versioning and rollbacks
 
-## Application
+## Application 
 
 The application is a simple Go web server that serves colored squares:
 - `/blue` endpoint - Shows a blue square
